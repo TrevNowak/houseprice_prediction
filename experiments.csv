@@ -1,0 +1,2 @@
+ts,model,name,MAE,RMSE,R2
+2025-08-22 13:06:56,XGB(best_random_search),XGB_default,15427.958984375,611784768.0,0.920240044593811
